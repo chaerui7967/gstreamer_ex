@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/tuto9.dir/tuto9.c.o  -o tuto9 

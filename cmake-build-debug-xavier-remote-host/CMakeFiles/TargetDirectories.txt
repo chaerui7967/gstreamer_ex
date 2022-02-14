@@ -1,0 +1,3 @@
+/media/user/SSD/Projects/csample-cg/cmake-build-debug-xavier-remote-host/CMakeFiles/rebuild_cache.dir
+/media/user/SSD/Projects/csample-cg/cmake-build-debug-xavier-remote-host/CMakeFiles/gstmyfilter.dir
+/media/user/SSD/Projects/csample-cg/cmake-build-debug-xavier-remote-host/CMakeFiles/edit_cache.dir

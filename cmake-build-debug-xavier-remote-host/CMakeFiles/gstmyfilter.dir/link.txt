@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/gstmyfilter.dir/gstmyfilter.c.o  -o gstmyfilter -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 

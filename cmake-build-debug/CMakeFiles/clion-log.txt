@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/chaegilho/projects/csample
+INFO /usr/local/Cellar/libffi/3.4.2/include;/usr/local/Cellar/gstreamer/1.18.5/include/gstreamer-1.0;/usr/local/Cellar/glib/2.70.3/include;/usr/local/Cellar/glib/2.70.3/include/glib-2.0;/usr/local/Cellar/glib/2.70.3/lib/glib-2.0/include;/usr/local/opt/gettext/include;/usr/local/Cellar/pcre/8.45/include
+INFO gstreamer-1.0;gobject-2.0;glib-2.0;intl
+INFO /usr/local/Cellar/gstreamer/1.18.5/lib;/usr/local/Cellar/glib/2.70.3/lib;/usr/local/opt/gettext/lib
+INFO 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/chaegilho/projects/csample/cmake-build-debug

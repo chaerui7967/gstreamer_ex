@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/filter1.dir/filter1.c.o  -o filter1 

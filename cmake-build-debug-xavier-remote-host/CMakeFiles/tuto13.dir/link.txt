@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/tuto13.dir/tuto13.c.o  -o tuto13 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 

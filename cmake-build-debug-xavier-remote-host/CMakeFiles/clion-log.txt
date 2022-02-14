@@ -1,0 +1,17 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/user/SSD/Projects/csample-cg
+INFO /usr/include/gstreamer-1.0;/usr/include/glib-2.0;/usr/lib/aarch64-linux-gnu/glib-2.0/include
+INFO gstreamer-1.0;gobject-2.0;glib-2.0
+INFO 
+INFO 
+CMake Error at CMakeLists.txt:24 (add_executable):
+  The target name "test" is reserved or not valid for certain CMake features,
+  such as generator expressions, and may result in undefined behavior.
+
+
+CMake Error at CMakeLists.txt:26 (target_link_libraries):
+  Cannot specify link libraries for target "test" which is not built by this
+  project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/media/user/SSD/Projects/csample-cg/cmake-build-debug-xavier-remote-host/CMakeFiles/CMakeOutput.log".

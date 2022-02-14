@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/tuto15.dir/tuto15.c.o  -o tuto15 

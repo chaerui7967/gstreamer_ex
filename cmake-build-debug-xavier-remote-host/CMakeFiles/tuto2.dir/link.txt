@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/tuto2.dir/tuto2.c.o  -o tuto2 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 
